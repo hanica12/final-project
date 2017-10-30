@@ -7,4 +7,3 @@
 # Hana: Where is White Coffee Cat?!
 # Vera, respond!!
 #I was sleeping, so as Coffe!
-#Nala ate last night so much, she doesnt feel well
