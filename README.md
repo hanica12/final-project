@@ -1,4 +1,5 @@
 # final-project
 # Hana Haskovic, Vera Zalica
 # CULS 2017
-# Hello hello hello
+# Hello hello hello+
+# Vera Vera Hana
